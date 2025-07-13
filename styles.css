@@ -1,0 +1,27 @@
+aside {
+  width: auto;
+  height: auto;
+  margin: 2px;
+  padding: 10px;
+  background-color: rgba(128, 128, 128, 0.324);
+  color: black;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+}
+p{
+    padding: 0;
+}
+
+footer {
+    margin-top: 10px;
+    border-top: 2px solid;
+    text-align: center;
+}
